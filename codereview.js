@@ -64,5 +64,3 @@ async function processUsers(userIds) {
     console.error("Unexpected error during processing:", error.message);
   }
 })();
-
-
